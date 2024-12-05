@@ -702,3 +702,14 @@ textarea {
   to {
     opacity: 0;
     top: 27px; } }
+
+    .fab {
+      font-size: 40px;
+      color: #e44d26; /* Cambia el color según la tecnología */
+    }
+    .skills__skill {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    
